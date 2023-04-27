@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="test_Scripts.AddToCartTest"/>
+      <class name="test_Scripts.KidsBoysShirtsPageTest"/>
+      <class name="test_Scripts.ElectronicPageTest"/>
+      <class name="test_Scripts.MenPageTest"/>
+      <class name="test_Scripts.VoucherPageTest"/>
+      <class name="test_Scripts.WishListIconTest"/>
+      <class name="test_Scripts.DeliveryCenterPageTest"/>
+      <class name="test_Scripts.WalletTest"/>
+      <class name="test_Scripts.KidsBoysJeansPageTest"/>
+      <class name="test_Scripts.LogoutTest"/>
+      <class name="test_Scripts.BoysTrousersPageTest"/>
+      <class name="test_Scripts.ContactUsPageTest"/>
+      <class name="test_Scripts.PaymentsPageTest"/>
+      <class name="test_Scripts.FeaturedProductsProductPageTest"/>
+      <class name="test_Scripts.LoginTest"/>
+      <class name="test_Scripts.AboutUsPageTest"/>
+      <class name="test_Scripts.GirlsJeansPageTest"/>
+      <class name="test_Scripts.ProfileTest"/>
+      <class name="test_Scripts.BeautyPageTest"/>
+      <class name="test_Scripts.ReturnPolicyPageTest"/>
+      <class name="test_Scripts.WishListTest"/>
+      <class name="test_Scripts.YourOrdersTest"/>
+      <class name="test_Scripts.WomenPageTest"/>
+      <class name="test_Scripts.KidsBoysTshirtsPageTest"/>
+      <class name="test_Scripts.KidsPageTest"/>
+      <class name="test_Scripts.CartIconTest"/>
+      <class name="test_Scripts.ShippingPageTest"/>
+      <class name="test_Scripts.GirlsTshirtsPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- RegressionSuite -->
